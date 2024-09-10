@@ -1,5 +1,17 @@
-# Descripcion
+# Teslo Shop
 
+**Teslo Shop** es una tienda de ropa inspirada en la experiencia de compra de la tienda oficial de Tesla. Este proyecto simula una plataforma de comercio electrónico donde los usuarios pueden explorar y adquirir productos de moda de alta calidad. La aplicación está diseñada para ofrecer una experiencia de usuario moderna, fluida y minimalista, similar a las interfaces premium de Tesla.
+
+## Características:
+- Catálogo de productos organizado por categorías
+- Integración con métodos de pago populares
+- Carrito de compras interactivo y sistema de gestión de pedidos
+
+## Tecnologías:
+- **Frontend:** Next.js
+- **Backend:** Prisma, NextAuth
+- **Base de datos:** Postgres
+- **Deploy:** Vercel
 
 ## Correr en dev
 
